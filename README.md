@@ -32,3 +32,9 @@
 <br>
 <h3>Time Complexity : O(1) </h3>
 <br>
+
+![Screenshot 2023-08-11 105546](https://github.com/Sohamp2606/DS-Stack-Queue/assets/106002920/e26fbb9d-c76a-4035-9361-b019d4db2d37)
+
+![Screenshot 2023-08-11 110604](https://github.com/Sohamp2606/DS-Stack-Queue/assets/106002920/b00ea904-222b-4c77-98b3-56f6a0d774a2)
+
+
