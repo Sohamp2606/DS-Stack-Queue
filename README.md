@@ -39,4 +39,16 @@
 
 <br>
 
+## Circular Queue
+<p>A circular queue is the extended version of a regular queue where the last element is connected to the first element.</p> 
+<p>Thus forming a circle-like structure.</p>
+<br>
+<h3>Time Complexity : O(1) </h3>
+<br>
+
+![Screenshot 2023-08-11 110604](https://github.com/Sohamp2606/DS-Stack-Queue/assets/106002920/6d803378-71f5-47d4-8b5c-d36dbe380e2e)
+
+![Screenshot 2023-08-11 111406](https://github.com/Sohamp2606/DS-Stack-Queue/assets/106002920/30f20b14-857c-42f3-8736-3d31c66243c6)
+
+
 ## Thank You , Keep Learning Keep Coding
